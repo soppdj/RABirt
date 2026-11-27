@@ -2,3 +2,4 @@ node_modules/
 *.apk
 supabase_schema.sql
 *.env*
+.vercel/
